@@ -2,7 +2,7 @@
 Repository for MIRI visualisation and analysis tools
 
 ## Available Codes
-!!!! Note that all codes here are experimental, use at your own risk!!!
+!!!! Note that all codes here are experimental, use at your own risk !!!!
 
 * `MIRIClean_FFT.ipynb` - Attempt to clean IFU-aligned MIRI frames by inspecting and filtering their 2D FFTs - this doesn't currently work as implemented, we're exploring other techniques.
 
