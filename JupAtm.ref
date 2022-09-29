@@ -1,6 +1,8 @@
 ########################################################################                            
 # JUPITER REFERENCE PROFILE (2022)                                                                  
-# 
+# WARNING:  Do not trust for p>1 bar or p<0.01 bar.
+#
+# Temp:  Low-lat average of Fletcher+2009; combined with Galileo Probe.
 # H2 (Gas39), He (Gas40) are from the Galileo probe. Hydrogen fraction set to 0.863
 # CH4 (Gas6-1) from Galileo probe, with CH3D (Gas6-2) and 13CH4 (Gas6-3)
 # NH3 (Gas11) and PH3 (Gas28):  Mean of 30N-30S from Fletcher et al. (2009).
