@@ -20,7 +20,7 @@ Repository for MIRI visualisation and analysis tools
 * MIRI/MRS Wavelength solution currently insufficient, leading to striping in images associated with narrow emission lines.  The wavelengths must be shifted spaxel by spaxel to a uniform solution.
 * MRS Saturation for Jupiter beyond 11 µm - this was expected, but workarounds are needed to access the unsaturated frames in the 4/5-group integrations.
 
-## Details of available code
+# Details of available code
 
 For the JWST calibration pipeline:
   - Use calibration_pipeline/jwstpipeline_v4.py to combine the dither positions in stage 3
