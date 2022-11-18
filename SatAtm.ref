@@ -6,7 +6,6 @@
 #  PH3 [28] and NH3 [11] from Fletcher et al. (2009)                                                     
 #  CH4 [6-1], CH3D [6-2], 13CH4 [6-3] from Fletcher et al. (2009)                                                     
 #  Ethane [27], Acetylene [26], Propane [34] from CIRS limb mean (Guerlet 2008)                                    
-#   from Paul Romani baseline profile, October 2012                                         
 #  HCN [23] from SPIRE Stratospheric limit (22 ppb p<1 mbar, Fletcher 2012).
 #  H2O [1] 0.176 ppm at all altitudes (de Graauw 1997)
 #  CO [5] 1 ppb all altitudes, Noll&Larson 1990.
