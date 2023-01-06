@@ -52,12 +52,6 @@ conda activate jwst
 export CRDS_PATH="$HOME/crds_cache"
 export CRDS_SERVER_URL="https://jwst-crds.stsci.edu"
 
-or
-
-conda activate jwst
-export CRDS_PATH="$HOME/crds_cache/jwst_ops"
-export CRDS_SERVER_URL="https://jwst-crds.stsci.edu"
-
 	python -W ignore jwstpipeline_singledither_v2.py [directory]
 
 		(directory = location of stage0 data)
