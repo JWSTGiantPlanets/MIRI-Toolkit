@@ -59,4 +59,4 @@ To generate contribution functions using the results of a NEMESIS forward model 
   
 # Post-pipeline calibration
 To calibrate wave-cal offsets and generate and apply flat-fields, refer to the post_pipeline directory and the instructions:
-  - post_pipeline/wave_cal_offset_instructions.docx
+  - wavelength_calibration/wave_cal_offset_instructions.docx
